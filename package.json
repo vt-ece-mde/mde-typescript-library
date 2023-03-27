@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Collection of commonly-used Typescript types for MDE projects.",
   "main": "dist/index.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
